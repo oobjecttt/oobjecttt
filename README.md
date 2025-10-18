@@ -22,5 +22,5 @@
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-black?style=for-the-badge&logo=linuxmint&logoColor=white)](https://linuxmint.com/)
 [![Termux](https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=termux&logoColor=white)](https://termux.com/)
 
-## Socials
+##
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/949769425647710239)

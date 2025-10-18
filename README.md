@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="object banner" width="800">
+  <img src="./object.png" alt="object banner" width="800">
 </p>
 
 ```bash

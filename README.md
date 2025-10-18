@@ -1,6 +1,6 @@
 <h1 align="center">object</h1>
 
-![object banner](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='800' height='120' viewBox='0 0 800 120'><rect width='100%' height='100%' fill='%23000'/><text x='50%' y='50%' fill='%23fff' font-family='system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif' font-size='64' font-weight='600' text-anchor='middle' dominant-baseline='middle'>object</text></svg>)
+![object banner](./banner.svg)
 
 ```bash
 ~$ whoami

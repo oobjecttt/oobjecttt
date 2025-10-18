@@ -1,6 +1,6 @@
-<h1 align="center">object</h1>
-
-![object banner](./banner.svg)
+<p align="center">
+  <img src="./banner.svg" alt="object banner" width="800">
+</p>
 
 ```bash
 ~$ whoami

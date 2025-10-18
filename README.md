@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./object.png" alt="object banner" width="400">
-</p>
-
 ```bash
 ~$ whoami
 > oobject

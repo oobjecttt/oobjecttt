@@ -1,5 +1,16 @@
 <h1 align="center">object</h1>
 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120" role="img" aria-label="object banner">
+  <rect width="100%" height="100%" fill="#000"/>
+  <text x="50%" y="50%" fill="#fff"
+        font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif"
+        font-size="64" font-weight="600"
+        text-anchor="middle" dominant-baseline="middle">
+    object
+  </text>
+</svg>
+
 ```bash
 ~$ whoami
 > oobject

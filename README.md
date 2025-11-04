@@ -20,5 +20,5 @@
 
 ##
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/949769425647710239)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/object6772)
-[![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=web&logoColor=white)](https://oobject.vercel.app)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/object6772)
+[![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=https://raw.githubusercontent.com/yourusername/yourrepo/main/O.png&logoColor=white)](https://oobject.vercel.app)

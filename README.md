@@ -4,7 +4,7 @@
 ```
 
 ##
-[Discord](https://discord.com/users/949769425647710239)
-[Telegram](https://t.me/object6772)
-[SpaceHey(https://spacehey.com/oobject)
-[oobject([https://guns.lol/oobject](https://oobject.vercel.app/))
+[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/949769425647710239)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/object6772)
+[![SpaceHey](https://img.shields.io/badge/SPACEHEY-000000?style=for-the-badge&logo=rss&logoColor=white)](https://spacehey.com/oobject)
+[![GunsLOL]](https://guns.lol/oobject)

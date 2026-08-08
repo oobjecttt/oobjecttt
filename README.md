@@ -1,7 +1,4 @@
 ```bash
 ~$ whoami
-> oobject
+> [oobject](https://oobject.vercel.app)
 ```
-
-##
-[my website](https://oobject.vercel.app)
